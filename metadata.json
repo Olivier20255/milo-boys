@@ -1,0 +1,6 @@
+{
+  "name": "MILO BOYS",
+  "description": "Integrated School Management Information System for Milo Boys School.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
